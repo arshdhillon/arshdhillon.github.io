@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Moon</title>
+    <style>
+       /* menubar start */
+.listmenubar {
+  background-color: rgb(62, 126, 191);
+  text-align: center;
+  z-index: 500:
+}
+.listmenubar ul {
+  list-style-type: none;
+  margin: 0px;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+  z-index: 55;
+}
+.listmenubar li {
+  float: left;
+}
+.listmenubar li a {
+  display: block;
+  color: #FFF;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.menubar {
+  position: relative;
+}
+a.menubar:hover {
+  background: rgb(62, 85, 255);
+  background-position: center;
+}
+/* menubar end */
+
+* {
+  background-color: black;
+}
+
+#moon {
+  position: relative;
+	width: 100px;
+	height: 100px;
+	background: white;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+  left: 50px;
+}
+
+/* Cleaner, but slightly less support: use "50%" as value */
+
+
+#shadow {
+  position: relative;
+	width: 100px;
+	height: 100px;
+	background: black;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+  bottom: 100px;
+  left: 25px;
+  
+}
+
+/* Cleaner, but slightly less support: use "50%" as value */
+
+</style>
+
+<body>
+
+<div id="moon">
+</div>
+<div id="shadow">
+</div>
+</body>
+
+</html>
