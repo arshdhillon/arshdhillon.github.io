@@ -30,13 +30,13 @@ li a:hover:not(.active) {
   background-color: #42C1CE;
 }
 
-h1 {
-  font-family: Arial;
+.logo {
   font-size: 100px;
   text-align: center;
 }
 
 .portfolio {
+  top: 200px;
   display: block;
   width: 100%;
   height: 100%;
