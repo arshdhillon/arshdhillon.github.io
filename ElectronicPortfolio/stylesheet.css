@@ -105,8 +105,8 @@ li a:hover:not(.active) {
 }
 
 .contactinfo {
-  width: 600px;
-  height: 630px;
+  width: 700px;
+  height: 680px;
   background: rgba(135, 224, 247, 0.75);
   border: 5px solid rgba(135, 224, 247);
   margin-top: 100px;
