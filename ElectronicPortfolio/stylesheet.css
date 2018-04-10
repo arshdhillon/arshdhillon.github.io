@@ -36,6 +36,7 @@ li a:hover:not(.active) {
 }
 
 .portfolio {
+  padding-top: 25px;
   top: 200px;
   display: block;
   width: 100%;
