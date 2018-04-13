@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  font-family: Quicksand, Arial, sans-serif;
 }
 
 ul {
@@ -51,7 +52,6 @@ table {
   float: right;
 }
 
-
 td {
   font-size: 20px;
   margin: 10px;
@@ -59,6 +59,7 @@ td {
 
 th {
   font-size: 30px;
+  padding-right: 20px;
 }
 
 tr {
@@ -69,6 +70,10 @@ tr {
   float: left;
 }
 
-body {
-  font-family: Quicksand, Arial, sans-serif;
+
+img {
+  width: 250px;
+  height: 250px;
+  float: left;
+  margin: 50px;
 }
