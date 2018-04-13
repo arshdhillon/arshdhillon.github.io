@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>Computer History</title>
+    <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="stylesheet.css">
+  </head>
+
+  <body>
+    <div class="content">
+
+      <ul>
+        <li><a class="active" href="#70">70's</a></li>
+        <li><a href="#80">80's</a></li>
+        <li><a href="#90">90's</a></li>
+        <li><a href="#00">00's</a></li>
+        <li><a href="#10">10's</a></li>
+      </ul>
+
+      <h1 class="sevenheading">Computer History: the 70's</h1>
+
+      <hr>
+
+      <div class="sevenhistory">
+
+        <p>
+          Early forms of networks were succesfully able to <br /> connect to computer. But theres was a limit to how <br />big communites could grow. So they tried to create <br /> the "networks of networks" a process called internetworking or internetting
+        </p>
+        <p>
+          The first advertisement for a microprocessor, the Intel 4004, appears <br /> in Electronic News. Developed for a Japanese <br /> calculator, it had the 2250 transistors <br /> and could make up to 90000 calculations/minute.
+        </p>
+        <p>
+          Dennis Ritchie and his team created the "C"programming <br /> language and released it to the public. It was <br /> based on the earlier language BCPL (Basic Combined Programming Language) <br /> and was a huge success.
+        </p>
+
+      </div>
+
+      <div id="keyevents">
+
+
+        <table>
+          <tr>
+            <th>Key Events</th>
+          </tr>
+          <tr>
+            <td>1. Computer Space is released</td>
+            <td><img src="http://www.mocagh.org/arcade/computerspace-2player.jpg"></td>
+          </tr>
+          <tr>
+            <td>2. C programming language is released</td>
+            <td><img src="http://www.unixstickers.com/image/cache/data/stickers/C/C%20language.sh-600x600.png"></td>
+          </tr>
+          <tr>
+            <td>3. Birth of modern mobile networks</td>
+            <td><img src="http://images.computerhistory.org/timeline/timeline_networking.web_1973_sri.van.jpg"></td>
+          </tr>
+          <tr>
+            <td>4. Commercial Networks Multiply</td>
+            <td><img src="http://images.computerhistory.org/timeline/timeline_networking.web_1975_commercialnetworks.jpg"></td>
+          </tr>
+          <tr>
+            <td>5. CP/M is developed</td>
+            <td><img src="http://images.computerhistory.org/timeline/timeline_sw.languages_1976.cpm.jpg"></td>
+          </tr>
+        </table>
+      </div>
+
+    </div>
+  </body>
+
+</html>
